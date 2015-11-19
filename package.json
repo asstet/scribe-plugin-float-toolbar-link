@@ -1,0 +1,27 @@
+{
+  "name": "scribe-plugin-toolbar-link",
+  "version": "1.0.0",
+  "description": "Scribe plugin which create link",
+  "main": "src/scribe-plugin-toolbar-link.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asstet/scribe-plugin-toolbar-link.git"
+  },
+  "keywords": [
+    "scribe",
+    "scribe-plugin",
+    "plugin",
+    "link",
+    "toolbar",
+    "link"
+  ],
+  "author": "Nikita Komarkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asstet/scribe-plugin-toolbar-link/issues"
+  },
+  "homepage": "https://github.com/asstet/scribe-plugin-toolbar-link#readme"
+}
